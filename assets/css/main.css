@@ -1,4 +1,6 @@
-/*@import url(font-awesome.min.css);
+@import url(font-awesome.min.css);
+
+/*
 @import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400";
 */
 /*
@@ -2306,7 +2308,7 @@ background: linear-gradient(to bottom, rgb(125, 53, 198) 0%, rgb(77, 43, 175) 89
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: Ubuntu;
+			font-family: FontAwesome;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
